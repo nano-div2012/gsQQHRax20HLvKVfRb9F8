@@ -1,6 +1,14 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "PlayTab",
+  "packageName": "com.playtab.app",
+  "orientation": "landscape",
+  "permissions": [
+    "notification",
+    "audio",
+    "location",
+    "file_manager",
+    "vibrate",
+    "wifi_state",
+    "wake_lock"
+  ]
 }
